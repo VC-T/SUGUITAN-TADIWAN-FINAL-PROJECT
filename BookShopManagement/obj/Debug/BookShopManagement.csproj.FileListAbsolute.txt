@@ -1,0 +1,16 @@
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.csproj.AssemblyReference.cache
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Books.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Dashboard.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Splash.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Users.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\aizar\source\repos\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\aizar\source\repos\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\aizar\source\repos\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Billing.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.AdminLogin.resources

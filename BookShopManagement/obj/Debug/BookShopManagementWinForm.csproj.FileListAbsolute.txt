@@ -1,0 +1,54 @@
+C:\Users\aizar\source\repos\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\aizar\source\repos\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\aizar\source\repos\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.AssemblyReference.cache
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.AdminLogin.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Billing.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Books.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Dashboard.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Splash.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.Users.resources
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.GenerateResource.cache
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.CoreCompileInputs.cache
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\aizar\source\repos\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.AssemblyReference.cache
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.AdminLogin.resources
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Billing.resources
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Books.resources
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Dashboard.resources
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Splash.resources
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Users.resources
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.GenerateResource.cache
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.CoreCompileInputs.cache
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShop.248293DB.Up2Date
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\aizar\source\repos\Final Project\BookShopManagement\obj\Debug\BookShopManagement.pdb
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.AssemblyReference.cache
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\bin\Debug\BookShopManagement.exe
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\bin\Debug\BookShopManagement.pdb
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.AdminLogin.resources
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Billing.resources
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Books.resources
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Dashboard.resources
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Splash.resources
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.Users.resources
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.GenerateResource.cache
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagementWinForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShop.248293DB.Up2Date
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.exe
+C:\Users\User\Documents\1Q2425\152L\final proj\Final Project\Final Project\BookShopManagement\obj\Debug\BookShopManagement.pdb

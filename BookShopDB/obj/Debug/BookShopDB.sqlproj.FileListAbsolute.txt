@@ -1,0 +1,20 @@
+C:\Users\aizar\source\repos\BookShopDB\bin\Debug\BookShopDB.dacpac
+C:\Users\aizar\source\repos\BookShopDB\bin\Debug\BookShopDB.dll
+C:\Users\aizar\source\repos\BookShopDB\bin\Debug\BookShopDB.pdb
+C:\Users\aizar\source\repos\BookShopDB\obj\Debug\BookShopDB.sqlproj.AssemblyReference.cache
+C:\Users\aizar\source\repos\BookShopDB\obj\Debug\BookShopDB.dll
+C:\Users\aizar\source\repos\BookShopDB\obj\Debug\BookShopDB.pdb
+C:\Users\aizar\source\repos\BookShopDB\obj\Debug\Model.xml
+C:\Users\aizar\source\repos\BookShopDB\obj\Debug\refactor.xml
+C:\Users\aizar\source\repos\BookShopDB\obj\Debug\postdeploy.sql
+C:\Users\aizar\source\repos\BookShopDB\obj\Debug\predeploy.sql
+C:\Users\aizar\source\repos\Final Project\BookShopDB\bin\Debug\BookShopDB.dacpac
+C:\Users\aizar\source\repos\Final Project\BookShopDB\bin\Debug\BookShopDB.dll
+C:\Users\aizar\source\repos\Final Project\BookShopDB\bin\Debug\BookShopDB.pdb
+C:\Users\aizar\source\repos\Final Project\BookShopDB\obj\Debug\BookShopDB.sqlproj.AssemblyReference.cache
+C:\Users\aizar\source\repos\Final Project\BookShopDB\obj\Debug\Model.xml
+C:\Users\aizar\source\repos\Final Project\BookShopDB\obj\Debug\refactor.xml
+C:\Users\aizar\source\repos\Final Project\BookShopDB\obj\Debug\postdeploy.sql
+C:\Users\aizar\source\repos\Final Project\BookShopDB\obj\Debug\predeploy.sql
+C:\Users\aizar\source\repos\Final Project\BookShopDB\obj\Debug\BookShopDB.dll
+C:\Users\aizar\source\repos\Final Project\BookShopDB\obj\Debug\BookShopDB.pdb
